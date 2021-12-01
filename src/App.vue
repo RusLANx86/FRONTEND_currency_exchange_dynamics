@@ -19,7 +19,7 @@ export default {
     return{
         menu: [
           {
-            header: 'Main Navigation',
+            header: 'Главное меню',
             hiddenOnCollapse: true
           },
           {
@@ -29,7 +29,7 @@ export default {
           },
           {
             href: '/charts',
-            title: 'Charts',
+            title: 'Графики',
             icon: 'fa fa-chart-area',
             child: [
               {
